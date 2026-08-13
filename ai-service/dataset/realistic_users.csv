@@ -1,0 +1,1001 @@
+Age,Gender,Height,Weight,BMI,Goal,Activity_Level,Diabetes,Hypertension,High_Cholesterol,Milk_Allergy,Peanut_Allergy,Egg_Allergy,Gluten_Allergy
+48,Male,156,44.0,18.1,Bulking,Sedentary,0,0,0,0,0,0,0
+51,Female,178,71.7,22.6,Maintain,Moderate,0,0,0,0,0,0,0
+55,Female,165,72.3,26.6,Maintain,Light,0,0,0,0,0,0,0
+55,Female,185,77.9,22.8,Bulking,Light,0,0,0,0,0,0,0
+53,Male,160,72.8,28.4,Cutting,Moderate,0,1,0,0,0,0,0
+44,Male,159,75.8,30.0,Cutting,Active,0,1,0,0,0,0,0
+47,Male,151,48.2,21.1,Bulking,Moderate,0,0,0,0,0,0,0
+32,Female,188,94.0,26.6,Maintain,Light,0,0,0,0,0,0,0
+29,Male,166,96.1,34.9,Cutting,Active,1,0,1,0,0,0,0
+50,Female,175,85.5,27.9,Maintain,Sedentary,0,0,0,0,0,0,0
+52,Male,175,92.2,30.1,Cutting,Sedentary,1,0,1,1,0,0,0
+22,Male,170,60.1,20.8,Bulking,Moderate,0,0,0,0,0,0,0
+35,Female,179,64.6,20.2,Bulking,Light,0,0,0,0,0,0,0
+29,Male,187,82.7,23.6,Maintain,Very Active,0,0,0,0,0,0,0
+41,Male,167,77.1,27.6,Maintain,Moderate,0,0,0,0,0,0,0
+36,Male,179,67.5,21.1,Maintain,Moderate,0,0,0,0,0,0,0
+58,Female,170,92.7,32.1,Cutting,Sedentary,1,1,0,0,0,0,0
+45,Female,166,66.5,24.1,Maintain,Sedentary,0,0,0,0,0,0,0
+20,Female,165,60.5,22.2,Maintain,Active,0,0,0,0,0,0,0
+30,Male,151,56.5,24.8,Bulking,Moderate,0,0,0,0,0,0,0
+18,Female,170,79.0,27.3,Cutting,Moderate,0,0,0,0,0,1,0
+20,Male,178,90.8,28.7,Maintain,Very Active,0,0,1,0,0,0,0
+52,Male,160,51.7,20.2,Maintain,Moderate,0,0,0,0,0,0,0
+24,Male,170,98.3,34.0,Cutting,Moderate,1,0,1,1,0,0,0
+60,Male,151,70.6,31.0,Cutting,Sedentary,1,1,0,1,0,0,0
+42,Male,167,57.3,20.5,Bulking,Moderate,0,1,0,0,0,0,0
+60,Female,184,62.2,18.4,Bulking,Moderate,0,0,0,0,0,1,0
+19,Female,157,60.2,24.4,Maintain,Very Active,0,0,0,0,0,0,0
+42,Female,165,93.9,34.5,Cutting,Active,0,0,0,0,0,0,0
+54,Female,168,69.2,24.5,Maintain,Sedentary,0,0,0,0,0,0,0
+54,Female,166,66.1,24.0,Maintain,Sedentary,0,0,0,0,0,0,0
+23,Female,165,84.8,31.1,Cutting,Moderate,1,0,0,0,1,0,0
+27,Male,159,74.1,29.3,Cutting,Active,0,0,0,0,0,0,0
+48,Female,190,98.2,27.2,Maintain,Sedentary,0,0,0,0,0,0,0
+49,Female,184,86.4,25.5,Cutting,Light,0,0,0,0,0,0,0
+36,Female,183,86.3,25.8,Cutting,Light,0,0,0,0,0,0,0
+50,Male,180,98.3,30.3,Cutting,Light,0,0,0,0,0,0,0
+53,Female,159,53.1,21.0,Bulking,Light,0,1,0,0,0,0,0
+52,Male,161,75.8,29.2,Cutting,Moderate,0,0,1,0,0,0,0
+20,Female,153,54.6,23.3,Maintain,Active,0,0,0,1,0,0,0
+54,Male,171,67.2,23.0,Maintain,Light,0,0,0,0,0,0,0
+26,Male,183,110.9,33.1,Cutting,Moderate,1,0,0,0,0,0,0
+39,Male,189,74.4,20.8,Maintain,Active,0,0,0,0,0,0,0
+53,Female,164,61.0,22.7,Maintain,Light,0,0,0,0,0,0,0
+30,Male,162,50.9,19.4,Maintain,Moderate,0,0,0,0,0,0,0
+21,Male,186,102.2,29.5,Cutting,Moderate,0,0,0,0,0,0,0
+59,Male,154,51.0,21.5,Maintain,Sedentary,0,0,0,0,0,0,0
+54,Female,173,93.3,31.2,Cutting,Moderate,1,0,0,0,0,0,0
+57,Female,155,53.4,22.2,Maintain,Light,0,0,0,0,0,0,0
+49,Male,159,86.5,34.2,Cutting,Sedentary,0,0,1,0,0,0,0
+60,Male,178,77.1,24.3,Bulking,Sedentary,0,1,0,0,0,0,0
+45,Male,174,99.6,32.9,Cutting,Light,0,0,0,0,0,0,0
+30,Female,168,59.3,21.0,Maintain,Moderate,0,0,0,0,0,0,0
+18,Male,181,66.9,20.4,Bulking,Very Active,0,0,0,0,0,0,0
+47,Female,160,46.5,18.2,Bulking,Light,0,0,0,0,0,0,0
+37,Male,170,92.7,32.1,Cutting,Light,0,0,1,0,0,0,0
+52,Female,177,88.9,28.4,Maintain,Moderate,0,0,0,0,0,0,0
+29,Male,162,62.9,24.0,Bulking,Very Active,0,0,0,0,0,1,0
+45,Female,160,51.4,20.1,Bulking,Moderate,0,0,0,0,0,0,0
+39,Female,181,90.1,27.5,Maintain,Light,0,0,0,0,0,0,0
+36,Female,150,40.5,18.0,Bulking,Moderate,0,0,0,0,0,0,0
+31,Male,152,41.7,18.0,Bulking,Active,0,0,0,0,0,0,0
+29,Female,176,85.4,27.6,Maintain,Very Active,0,0,0,0,0,0,0
+35,Male,178,100.0,31.6,Cutting,Active,1,0,0,0,0,0,0
+48,Male,162,68.0,25.9,Cutting,Moderate,0,0,0,0,0,0,0
+35,Male,171,92.1,31.5,Cutting,Moderate,0,0,0,0,0,0,0
+34,Male,174,64.2,21.2,Maintain,Active,0,0,0,0,0,0,0
+50,Female,170,64.0,22.1,Maintain,Moderate,0,0,0,0,0,0,0
+52,Male,153,55.8,23.8,Maintain,Light,0,0,0,0,0,0,0
+43,Male,182,115.0,34.7,Cutting,Moderate,0,1,0,0,0,0,0
+60,Male,173,77.3,25.8,Maintain,Light,0,1,0,0,0,0,0
+55,Female,177,109.3,34.9,Cutting,Sedentary,0,0,0,0,0,0,0
+43,Female,160,59.8,23.4,Maintain,Active,0,1,0,0,0,0,0
+39,Female,168,56.8,20.1,Maintain,Active,0,0,0,0,0,0,0
+31,Female,150,77.9,34.6,Cutting,Moderate,1,0,0,0,0,0,0
+26,Male,154,57.0,24.0,Bulking,Active,0,0,0,0,0,0,0
+51,Female,161,86.2,33.3,Cutting,Light,1,0,1,1,0,0,0
+48,Female,174,102.4,33.8,Cutting,Sedentary,0,0,0,0,0,0,0
+28,Female,186,117.5,34.0,Cutting,Very Active,0,0,0,0,0,0,0
+60,Female,169,90.3,31.6,Cutting,Moderate,0,0,0,0,0,0,0
+58,Male,188,82.3,23.3,Bulking,Sedentary,0,1,0,0,0,0,0
+56,Male,157,52.2,21.2,Bulking,Light,0,1,0,0,0,0,0
+55,Male,168,57.5,20.4,Maintain,Moderate,0,0,0,0,0,0,0
+22,Male,165,56.5,20.8,Bulking,Moderate,0,0,0,0,0,0,0
+51,Male,158,73.6,29.5,Cutting,Light,0,0,1,0,0,0,0
+37,Female,163,83.7,31.5,Cutting,Light,0,0,0,0,0,0,0
+50,Male,184,65.8,19.4,Bulking,Sedentary,0,0,0,1,0,0,0
+38,Male,162,58.8,22.4,Bulking,Moderate,0,0,0,0,0,0,0
+53,Male,156,44.8,18.4,Bulking,Sedentary,0,0,0,0,0,0,1
+45,Female,168,96.8,34.3,Cutting,Light,0,0,0,0,0,0,0
+46,Female,156,76.1,31.3,Cutting,Moderate,0,1,1,0,0,0,0
+31,Male,158,80.2,32.1,Cutting,Active,1,0,0,0,0,0,0
+42,Female,168,75.4,26.7,Cutting,Active,0,0,0,0,0,0,0
+32,Male,151,62.9,27.6,Maintain,Moderate,0,0,0,0,0,0,0
+33,Female,175,84.7,27.7,Maintain,Moderate,0,0,0,0,0,0,0
+54,Female,172,79.1,26.7,Maintain,Sedentary,0,0,0,0,0,0,0
+48,Male,187,63.9,18.3,Bulking,Sedentary,0,0,0,0,0,0,0
+34,Female,159,46.4,18.4,Bulking,Active,0,0,0,0,0,0,0
+52,Male,166,75.6,27.4,Cutting,Light,0,0,0,0,0,0,0
+45,Male,183,85.0,25.4,Maintain,Sedentary,0,1,0,0,0,0,0
+46,Male,171,88.2,30.2,Cutting,Light,0,0,0,0,0,0,0
+19,Male,186,87.0,25.1,Cutting,Active,0,0,0,0,0,0,0
+38,Male,190,102.5,28.4,Cutting,Light,0,0,0,0,0,0,0
+32,Male,157,49.3,20.0,Bulking,Moderate,0,0,0,0,0,0,0
+57,Male,186,116.7,33.7,Cutting,Light,1,0,0,0,0,0,0
+42,Female,152,75.9,32.9,Cutting,Active,0,0,0,0,0,0,1
+37,Male,159,72.3,28.6,Cutting,Active,0,0,1,1,0,0,0
+41,Male,161,47.4,18.3,Bulking,Active,0,0,0,0,0,0,0
+33,Female,190,90.7,25.1,Cutting,Moderate,0,0,0,0,0,0,0
+52,Female,172,88.0,29.7,Cutting,Light,0,0,0,0,0,0,0
+47,Male,172,82.2,27.8,Maintain,Moderate,0,0,0,0,0,0,0
+59,Female,154,63.1,26.6,Maintain,Light,0,1,0,0,0,0,0
+23,Female,177,80.6,25.7,Cutting,Moderate,0,0,0,0,1,0,0
+21,Female,180,88.5,27.3,Cutting,Very Active,0,0,0,0,0,0,0
+53,Male,164,48.9,18.2,Bulking,Moderate,0,1,0,0,0,0,0
+44,Female,173,79.5,26.6,Cutting,Light,0,1,0,0,0,0,1
+19,Female,166,53.6,19.5,Bulking,Very Active,0,0,0,0,0,0,0
+37,Male,151,53.7,23.6,Bulking,Light,0,0,0,0,0,0,0
+55,Male,176,62.0,20.0,Bulking,Moderate,0,1,0,0,0,0,0
+53,Male,165,95.1,34.9,Cutting,Light,0,0,1,1,0,0,0
+36,Female,175,70.4,23.0,Maintain,Moderate,0,0,0,0,0,0,0
+36,Male,177,89.9,28.7,Maintain,Light,0,0,0,1,1,0,0
+30,Female,173,100.3,33.5,Cutting,Light,1,0,1,1,0,0,0
+34,Male,154,77.9,32.8,Cutting,Active,0,0,0,0,0,0,0
+27,Male,174,59.4,19.6,Bulking,Moderate,0,0,0,0,1,0,0
+41,Female,162,91.7,34.9,Cutting,Light,0,1,0,0,0,0,0
+49,Male,168,92.3,32.7,Cutting,Sedentary,1,1,1,0,0,0,0
+45,Female,153,47.9,20.5,Bulking,Moderate,0,1,0,0,0,0,0
+22,Female,182,74.7,22.6,Bulking,Moderate,0,0,0,0,0,1,0
+51,Male,160,79.0,30.9,Cutting,Moderate,0,0,1,0,0,0,0
+49,Female,189,105.6,29.6,Maintain,Moderate,0,0,0,0,0,0,0
+19,Male,165,56.6,20.8,Maintain,Active,0,0,0,0,0,0,0
+40,Male,157,66.3,26.9,Cutting,Light,0,0,0,0,0,0,0
+26,Female,178,84.1,26.5,Maintain,Very Active,0,0,0,0,0,0,0
+18,Female,169,52.8,18.5,Bulking,Moderate,0,0,0,0,0,0,0
+20,Male,179,70.5,22.0,Maintain,Very Active,0,0,0,0,0,0,0
+41,Male,176,85.5,27.6,Maintain,Moderate,0,1,0,1,0,0,0
+54,Male,153,46.3,19.8,Maintain,Sedentary,0,0,0,0,0,0,0
+42,Male,179,98.2,30.6,Cutting,Active,1,0,1,0,0,0,0
+24,Female,165,94.3,34.6,Cutting,Very Active,0,0,0,0,0,0,0
+25,Female,153,77.2,33.0,Cutting,Moderate,1,0,0,0,0,0,0
+31,Male,151,75.9,33.3,Cutting,Light,0,0,1,0,0,0,0
+41,Female,186,73.6,21.3,Bulking,Light,0,0,0,0,0,0,0
+45,Female,160,77.5,30.3,Cutting,Light,1,1,0,0,0,0,0
+31,Female,166,72.3,26.2,Cutting,Moderate,0,0,0,0,0,0,0
+34,Male,190,108.6,30.1,Cutting,Light,0,0,0,0,0,0,0
+42,Male,153,68.6,29.3,Cutting,Moderate,0,0,0,0,0,0,0
+50,Female,157,73.3,29.7,Cutting,Moderate,0,0,1,0,0,0,0
+58,Male,156,79.2,32.5,Cutting,Sedentary,1,1,0,0,0,0,0
+42,Male,160,75.6,29.5,Cutting,Moderate,0,1,0,0,0,0,0
+24,Male,178,80.4,25.4,Maintain,Moderate,0,0,0,0,0,0,0
+48,Female,152,54.4,23.5,Bulking,Light,0,0,0,0,0,0,1
+30,Female,155,58.7,24.4,Bulking,Light,0,0,0,0,0,0,0
+48,Male,183,116.7,34.8,Cutting,Moderate,1,0,0,0,1,0,0
+43,Female,167,93.4,33.5,Cutting,Active,0,0,1,0,0,0,0
+47,Male,153,66.1,28.2,Cutting,Light,0,0,0,0,0,0,0
+58,Female,188,65.9,18.6,Maintain,Light,0,1,0,0,0,0,0
+39,Female,157,50.7,20.6,Bulking,Active,0,0,0,0,0,0,0
+25,Male,154,56.6,23.9,Maintain,Active,0,0,0,0,0,0,0
+44,Male,173,57.3,19.1,Bulking,Moderate,0,1,0,0,0,0,0
+43,Male,158,87.2,34.9,Cutting,Moderate,0,0,0,0,0,0,0
+18,Male,184,68.8,20.3,Maintain,Moderate,0,0,0,0,0,0,0
+32,Male,170,82.0,28.4,Cutting,Moderate,0,0,1,0,0,0,0
+43,Female,179,90.8,28.3,Cutting,Light,0,1,0,0,0,0,0
+39,Male,164,71.6,26.6,Maintain,Active,0,0,0,0,0,0,0
+54,Female,178,101.0,31.9,Cutting,Moderate,0,0,0,0,0,0,0
+32,Male,172,90.7,30.7,Cutting,Active,1,0,0,0,0,0,0
+25,Male,155,79.8,33.2,Cutting,Very Active,1,0,1,0,0,0,0
+30,Male,184,86.3,25.5,Maintain,Moderate,0,0,0,0,0,0,0
+25,Male,178,70.7,22.3,Maintain,Moderate,0,0,0,0,0,1,0
+59,Male,187,118.4,33.9,Cutting,Sedentary,0,0,0,0,1,0,0
+41,Female,178,60.3,19.0,Maintain,Active,0,1,0,0,0,0,0
+33,Female,174,101.1,33.4,Cutting,Active,0,0,0,1,0,0,0
+36,Female,175,86.6,28.3,Maintain,Active,0,0,0,0,0,0,0
+46,Female,158,70.8,28.4,Maintain,Sedentary,0,1,0,0,0,0,0
+24,Female,150,72.7,32.3,Cutting,Active,1,0,0,0,0,0,0
+44,Male,170,85.4,29.6,Maintain,Active,0,0,0,0,0,0,0
+48,Female,187,104.0,29.7,Maintain,Moderate,0,1,0,0,0,0,0
+51,Female,174,76.7,25.3,Cutting,Light,0,1,0,0,0,0,0
+33,Male,179,73.3,22.9,Bulking,Moderate,0,0,0,1,0,0,0
+32,Female,159,47.9,18.9,Maintain,Active,0,0,0,0,0,0,0
+20,Female,161,90.5,34.9,Cutting,Active,0,0,0,0,0,0,0
+30,Male,159,76.9,30.4,Cutting,Light,0,0,0,0,0,0,0
+21,Male,180,113.2,34.9,Cutting,Very Active,0,0,1,0,1,0,0
+51,Female,150,70.0,31.1,Cutting,Light,1,0,1,0,0,0,0
+34,Male,173,74.6,24.9,Maintain,Active,0,0,0,0,0,0,0
+43,Female,160,84.5,33.0,Cutting,Light,1,1,1,0,0,0,0
+24,Male,168,51.3,18.2,Bulking,Very Active,0,0,0,0,0,0,0
+40,Male,189,75.8,21.2,Maintain,Active,0,0,0,1,0,0,0
+42,Male,157,51.3,20.8,Bulking,Moderate,0,0,0,0,0,0,0
+29,Female,188,113.4,32.1,Cutting,Active,0,0,0,0,0,0,0
+47,Female,190,86.0,23.8,Maintain,Sedentary,0,0,0,1,0,0,0
+18,Male,173,79.7,26.6,Maintain,Active,0,0,0,1,0,0,0
+46,Female,188,67.8,19.2,Bulking,Light,0,0,0,0,0,0,0
+60,Female,156,70.2,28.8,Cutting,Sedentary,0,0,1,0,0,0,0
+22,Female,180,112.4,34.7,Cutting,Active,0,0,0,0,0,0,0
+24,Male,170,68.9,23.8,Maintain,Moderate,0,0,0,0,0,0,1
+50,Male,189,71.3,20.0,Maintain,Sedentary,0,0,0,0,0,0,0
+38,Female,162,83.9,32.0,Cutting,Moderate,1,0,0,0,0,0,0
+48,Female,185,111.5,32.6,Cutting,Sedentary,0,0,0,0,0,0,0
+42,Female,172,64.7,21.9,Bulking,Moderate,0,0,0,0,0,0,0
+45,Male,175,74.6,24.4,Maintain,Moderate,0,1,0,0,0,0,0
+32,Male,160,76.8,30.0,Cutting,Moderate,0,0,0,0,0,0,0
+40,Female,178,81.4,25.7,Cutting,Light,0,0,0,0,0,0,0
+22,Female,150,49.9,22.2,Maintain,Very Active,0,0,0,0,0,0,0
+31,Female,179,76.7,23.9,Maintain,Active,0,0,0,0,0,0,0
+29,Female,185,70.7,20.7,Bulking,Very Active,0,0,0,0,0,0,0
+23,Male,164,50.4,18.7,Bulking,Very Active,0,0,0,0,1,0,0
+20,Female,167,58.4,20.9,Maintain,Very Active,0,0,0,0,0,0,0
+25,Male,185,95.5,27.9,Cutting,Very Active,0,0,0,0,1,0,0
+44,Female,153,72.7,31.1,Cutting,Moderate,0,1,1,0,0,0,0
+44,Male,160,66.1,25.8,Maintain,Moderate,0,1,0,0,0,0,0
+56,Male,174,76.3,25.2,Cutting,Light,0,0,0,0,0,0,0
+22,Female,177,57.7,18.4,Bulking,Very Active,0,0,0,1,0,0,0
+34,Male,158,49.1,19.7,Bulking,Moderate,0,0,0,0,0,0,0
+32,Male,155,53.1,22.1,Bulking,Light,0,0,0,0,0,0,1
+20,Male,156,55.9,23.0,Maintain,Active,0,0,0,0,0,0,0
+25,Female,186,80.1,23.2,Maintain,Active,0,0,0,0,0,0,0
+23,Female,176,90.3,29.2,Maintain,Moderate,0,0,0,0,0,0,0
+24,Female,174,94.6,31.2,Cutting,Active,0,0,1,0,0,0,0
+51,Male,188,121.4,34.3,Cutting,Sedentary,0,0,0,0,0,0,0
+32,Female,152,72.8,31.5,Cutting,Light,1,0,0,0,0,0,0
+40,Female,151,52.4,23.0,Bulking,Moderate,0,0,0,0,0,0,0
+50,Female,150,51.8,23.0,Maintain,Sedentary,0,0,0,0,0,0,0
+25,Female,175,100.3,32.8,Cutting,Moderate,0,0,1,1,0,0,0
+41,Male,155,81.9,34.1,Cutting,Light,1,0,0,0,0,0,0
+47,Female,190,94.6,26.2,Maintain,Sedentary,0,0,0,0,0,0,0
+29,Male,162,82.5,31.4,Cutting,Moderate,1,0,0,0,1,0,0
+32,Female,182,90.5,27.3,Cutting,Active,0,0,0,0,0,0,0
+47,Male,157,85.0,34.5,Cutting,Light,0,0,0,0,0,0,0
+25,Female,190,90.0,24.9,Maintain,Active,0,0,0,0,0,0,0
+26,Male,153,56.5,24.1,Bulking,Active,0,0,0,0,0,0,0
+41,Male,152,66.6,28.8,Maintain,Light,0,1,0,0,0,0,0
+42,Female,161,53.3,20.6,Bulking,Light,0,0,0,0,0,0,0
+21,Male,188,103.8,29.4,Maintain,Moderate,0,0,1,0,0,0,0
+24,Female,168,69.6,24.7,Bulking,Active,0,0,0,0,0,0,0
+47,Female,174,66.1,21.8,Bulking,Light,0,1,0,0,1,0,0
+47,Male,162,62.6,23.9,Bulking,Moderate,0,0,0,0,0,0,0
+20,Female,189,91.6,25.6,Maintain,Very Active,0,0,0,0,0,0,0
+19,Male,169,90.8,31.8,Cutting,Very Active,1,0,0,0,0,0,0
+47,Male,155,66.5,27.7,Maintain,Sedentary,0,0,0,0,0,0,0
+27,Male,158,50.6,20.3,Bulking,Very Active,0,0,0,0,0,0,0
+27,Male,172,69.3,23.4,Maintain,Moderate,0,0,0,0,0,0,0
+35,Male,159,67.8,26.8,Maintain,Active,0,0,0,0,0,0,0
+19,Male,165,90.6,33.3,Cutting,Very Active,0,0,0,0,0,0,0
+20,Female,159,71.6,28.3,Maintain,Moderate,0,0,1,0,0,0,0
+33,Male,155,60.3,25.1,Cutting,Moderate,0,0,0,0,0,0,0
+36,Female,159,69.4,27.5,Cutting,Active,0,0,0,0,0,0,0
+36,Female,152,74.5,32.2,Cutting,Light,0,0,1,0,0,0,0
+52,Male,175,75.8,24.8,Maintain,Sedentary,0,1,0,1,0,0,0
+23,Female,180,96.0,29.6,Cutting,Active,0,0,0,0,0,0,0
+25,Male,154,52.6,22.2,Bulking,Active,0,0,0,0,0,0,0
+43,Female,166,58.8,21.3,Bulking,Light,0,0,0,0,0,0,0
+35,Male,156,79.7,32.7,Cutting,Moderate,1,0,1,0,0,0,0
+20,Male,163,91.9,34.6,Cutting,Active,0,0,1,0,0,0,0
+57,Male,160,79.2,30.9,Cutting,Light,1,1,1,0,0,0,0
+25,Male,171,61.2,20.9,Bulking,Active,0,0,0,0,0,0,0
+53,Female,177,63.2,20.2,Bulking,Moderate,0,0,0,0,0,0,0
+35,Female,161,63.3,24.4,Bulking,Active,0,0,0,0,0,0,0
+29,Female,168,97.0,34.4,Cutting,Moderate,0,0,0,0,0,0,0
+43,Male,165,89.2,32.8,Cutting,Light,0,1,1,0,0,0,0
+22,Male,187,107.4,30.7,Cutting,Moderate,0,0,1,0,0,0,0
+37,Male,167,72.7,26.1,Maintain,Moderate,0,0,0,0,0,0,0
+56,Male,173,99.3,33.2,Cutting,Moderate,0,0,1,0,0,0,0
+55,Female,164,84.6,31.5,Cutting,Moderate,0,0,0,0,0,0,0
+31,Male,159,80.9,32.0,Cutting,Moderate,0,0,0,0,0,0,0
+52,Male,177,66.7,21.3,Maintain,Moderate,0,0,0,0,0,0,0
+54,Male,160,53.8,21.0,Bulking,Light,0,0,0,1,0,0,0
+18,Male,159,68.0,26.9,Maintain,Active,0,0,0,0,0,0,0
+35,Female,187,84.0,24.0,Maintain,Moderate,0,0,0,0,0,0,0
+32,Female,163,56.2,21.2,Bulking,Light,0,0,0,0,1,0,0
+27,Female,167,73.3,26.3,Maintain,Active,0,0,0,0,0,0,0
+31,Female,159,50.3,19.9,Bulking,Light,0,0,0,0,0,0,0
+24,Male,181,85.0,25.9,Cutting,Active,0,0,0,0,0,0,0
+43,Female,169,65.9,23.1,Maintain,Moderate,0,0,0,0,0,0,0
+20,Female,180,72.3,22.3,Bulking,Very Active,0,0,0,0,0,0,0
+22,Male,190,84.2,23.3,Maintain,Very Active,0,0,0,1,0,0,0
+18,Male,187,68.2,19.5,Bulking,Very Active,0,0,0,1,0,0,0
+35,Female,183,69.2,20.7,Bulking,Light,0,0,0,0,0,0,0
+54,Female,164,84.2,31.3,Cutting,Moderate,1,0,0,0,0,0,0
+59,Male,186,95.5,27.6,Maintain,Sedentary,0,0,0,0,0,0,0
+32,Male,168,93.7,33.2,Cutting,Light,1,0,0,0,0,0,0
+39,Male,189,115.4,32.3,Cutting,Active,0,0,0,0,0,0,0
+31,Female,174,66.8,22.1,Bulking,Active,0,0,0,0,0,0,1
+45,Male,168,97.1,34.4,Cutting,Moderate,0,0,0,0,0,0,0
+22,Male,158,78.6,31.5,Cutting,Very Active,0,0,0,0,0,0,0
+32,Female,162,60.9,23.2,Bulking,Light,0,0,0,0,0,0,0
+59,Male,152,79.6,34.5,Cutting,Light,1,0,0,0,1,0,0
+46,Female,177,76.1,24.3,Maintain,Moderate,0,0,0,1,0,0,0
+33,Female,151,63.8,28.0,Cutting,Moderate,0,0,0,0,0,0,0
+34,Female,161,70.7,27.3,Cutting,Moderate,0,0,0,0,0,0,0
+50,Female,173,71.0,23.7,Bulking,Moderate,0,0,0,0,0,0,0
+19,Male,180,70.0,21.6,Bulking,Moderate,0,0,0,0,0,0,0
+57,Male,178,97.2,30.7,Cutting,Sedentary,0,0,0,0,0,0,0
+34,Female,156,78.8,32.4,Cutting,Active,0,0,0,0,0,0,0
+27,Male,163,64.9,24.4,Bulking,Moderate,0,0,0,1,0,0,0
+37,Female,176,58.1,18.8,Bulking,Light,0,0,0,0,0,0,0
+28,Male,189,102.1,28.6,Maintain,Active,0,0,1,0,0,1,0
+55,Female,157,66.2,26.9,Cutting,Moderate,0,1,0,0,0,0,0
+39,Female,156,70.0,28.8,Cutting,Light,0,0,0,0,0,0,0
+29,Male,172,81.1,27.4,Maintain,Very Active,0,0,0,0,0,0,0
+56,Female,182,61.9,18.7,Bulking,Light,0,0,0,0,1,0,0
+27,Male,187,80.4,23.0,Maintain,Very Active,0,0,0,0,0,0,0
+49,Male,157,49.3,20.0,Maintain,Light,0,0,0,0,0,0,0
+53,Female,166,86.2,31.3,Cutting,Sedentary,1,1,0,0,0,0,0
+53,Female,188,119.5,33.8,Cutting,Moderate,0,0,1,0,0,0,0
+35,Male,185,87.1,25.4,Cutting,Light,0,0,0,0,0,0,0
+23,Female,188,111.2,31.5,Cutting,Active,0,0,0,0,0,0,0
+30,Male,166,92.6,33.6,Cutting,Active,0,0,1,0,0,0,0
+44,Female,161,82.5,31.8,Cutting,Active,1,0,0,0,0,0,0
+18,Male,162,65.6,25.0,Cutting,Active,0,0,0,0,0,0,0
+26,Male,163,88.4,33.3,Cutting,Moderate,1,0,0,0,0,0,0
+37,Female,152,70.3,30.4,Cutting,Light,0,0,0,0,0,0,0
+58,Male,186,96.1,27.8,Maintain,Moderate,0,1,0,0,0,0,0
+36,Male,161,70.9,27.4,Cutting,Active,0,0,0,1,0,0,0
+47,Male,159,72.4,28.6,Maintain,Sedentary,0,0,0,0,0,0,0
+18,Female,175,75.1,24.5,Bulking,Moderate,0,0,0,1,0,0,0
+35,Female,156,52.8,21.7,Bulking,Light,0,0,0,1,0,0,0
+26,Female,161,49.1,18.9,Maintain,Moderate,0,0,0,0,0,0,0
+40,Male,180,89.5,27.6,Cutting,Light,0,0,0,0,0,0,0
+34,Male,159,54.0,21.4,Bulking,Moderate,0,0,0,0,0,0,0
+24,Male,152,75.1,32.5,Cutting,Moderate,0,0,1,0,0,0,0
+29,Male,171,93.7,32.0,Cutting,Very Active,1,0,0,0,0,0,0
+60,Male,181,95.3,29.1,Cutting,Moderate,0,1,0,0,0,0,0
+42,Female,185,64.6,18.9,Maintain,Light,0,1,0,0,0,0,0
+25,Male,154,81.1,34.2,Cutting,Very Active,0,0,0,0,0,0,0
+37,Female,165,62.9,23.1,Maintain,Active,0,0,0,0,0,0,0
+21,Male,172,82.4,27.9,Maintain,Very Active,0,0,0,0,0,0,0
+27,Male,183,83.6,25.0,Cutting,Very Active,0,0,0,0,0,0,0
+58,Female,153,78.6,33.6,Cutting,Sedentary,0,0,1,0,0,0,0
+40,Female,181,104.8,32.0,Cutting,Light,0,0,1,1,0,0,0
+46,Female,154,47.3,19.9,Maintain,Light,0,1,0,0,0,1,0
+48,Female,157,82.9,33.6,Cutting,Sedentary,0,0,0,0,0,0,0
+57,Male,182,109.5,33.1,Cutting,Sedentary,0,0,0,0,0,0,0
+34,Male,159,47.6,18.8,Maintain,Moderate,0,0,0,0,0,0,1
+37,Male,188,103.3,29.2,Cutting,Moderate,0,0,1,0,0,0,1
+57,Female,169,69.7,24.4,Bulking,Light,0,0,0,0,0,0,0
+52,Male,190,94.2,26.1,Maintain,Sedentary,0,1,0,0,0,0,0
+53,Male,185,93.4,27.3,Cutting,Moderate,0,0,0,0,0,0,0
+22,Male,152,44.3,19.2,Maintain,Active,0,0,0,0,0,0,0
+59,Male,165,74.8,27.5,Cutting,Light,0,1,0,0,0,0,0
+58,Female,173,78.8,26.3,Maintain,Sedentary,0,1,0,0,0,0,0
+33,Female,154,76.9,32.4,Cutting,Active,1,0,0,0,0,0,0
+18,Male,186,111.1,32.1,Cutting,Active,0,0,1,0,0,0,0
+53,Male,167,88.8,31.8,Cutting,Sedentary,1,1,0,0,0,0,0
+24,Male,183,68.5,20.5,Maintain,Moderate,0,0,0,0,0,0,0
+60,Male,164,84.2,31.3,Cutting,Moderate,0,1,0,0,0,0,0
+28,Male,161,78.0,30.1,Cutting,Moderate,0,0,0,0,0,0,1
+33,Male,174,91.6,30.3,Cutting,Moderate,1,0,0,0,0,0,0
+35,Female,164,78.5,29.2,Maintain,Active,0,0,1,0,0,0,0
+34,Male,178,58.4,18.4,Bulking,Active,0,0,0,1,0,0,0
+60,Female,172,84.5,28.6,Cutting,Light,0,0,0,0,0,0,0
+46,Female,173,56.7,18.9,Bulking,Moderate,0,1,0,0,0,0,0
+39,Female,186,69.1,20.0,Bulking,Active,0,0,0,0,0,0,0
+56,Female,181,97.2,29.7,Cutting,Moderate,0,1,0,0,0,0,0
+41,Male,180,103.3,31.9,Cutting,Light,1,0,0,0,0,0,0
+21,Female,169,61.4,21.5,Bulking,Moderate,0,0,0,0,0,0,0
+59,Male,159,62.4,24.7,Maintain,Light,0,0,0,0,0,0,0
+34,Female,157,81.6,33.1,Cutting,Light,1,0,0,0,0,0,0
+36,Male,154,67.0,28.3,Cutting,Active,0,0,0,0,0,0,0
+49,Female,185,104.1,30.4,Cutting,Sedentary,0,0,0,0,0,0,0
+45,Female,190,71.2,19.7,Maintain,Light,0,0,0,0,0,0,0
+21,Male,181,80.9,24.7,Bulking,Active,0,0,0,0,0,0,0
+20,Female,180,92.4,28.5,Cutting,Very Active,0,0,0,0,0,0,0
+52,Male,170,69.4,24.0,Bulking,Sedentary,0,0,0,1,0,0,0
+49,Male,167,61.0,21.9,Maintain,Sedentary,0,1,0,0,0,0,0
+50,Male,166,55.4,20.1,Maintain,Sedentary,0,0,0,0,0,0,0
+23,Male,170,56.7,19.6,Maintain,Active,0,0,0,0,0,1,0
+40,Female,172,68.7,23.2,Bulking,Active,0,0,0,0,0,0,0
+52,Male,184,75.7,22.4,Bulking,Light,0,0,0,0,0,0,0
+25,Male,156,61.3,25.2,Maintain,Very Active,0,0,0,0,0,0,0
+46,Female,187,94.3,27.0,Maintain,Moderate,0,0,0,0,0,0,0
+36,Male,151,68.8,30.2,Cutting,Active,1,0,1,0,0,0,0
+42,Female,176,98.4,31.8,Cutting,Light,1,1,1,0,0,0,0
+29,Female,155,81.7,34.0,Cutting,Very Active,0,0,0,0,0,0,0
+40,Female,186,79.7,23.0,Maintain,Active,0,0,0,0,1,0,0
+28,Male,164,56.7,21.1,Bulking,Moderate,0,0,0,0,0,0,0
+30,Male,176,87.2,28.2,Maintain,Moderate,0,0,1,0,0,0,0
+45,Female,151,77.8,34.1,Cutting,Light,0,1,1,0,0,0,0
+45,Female,159,53.1,21.0,Maintain,Moderate,0,0,0,0,0,0,0
+44,Male,173,101.8,34.0,Cutting,Light,0,0,1,0,0,0,0
+38,Female,172,84.2,28.5,Cutting,Active,0,0,0,0,0,0,0
+42,Female,182,70.3,21.2,Maintain,Light,0,0,0,0,0,0,0
+33,Female,153,51.6,22.0,Maintain,Light,0,0,0,0,0,0,0
+31,Male,159,58.1,23.0,Maintain,Active,0,0,0,0,0,0,0
+23,Male,162,48.0,18.3,Bulking,Active,0,0,0,0,0,0,0
+43,Female,161,84.5,32.6,Cutting,Light,1,1,0,0,0,0,0
+30,Male,160,61.5,24.0,Maintain,Active,0,0,0,0,0,0,0
+41,Female,183,90.3,27.0,Cutting,Light,0,0,0,0,0,0,0
+33,Male,168,53.5,19.0,Bulking,Light,0,0,0,0,0,0,0
+49,Male,188,110.7,31.3,Cutting,Sedentary,0,0,0,0,0,0,0
+52,Male,152,48.5,21.0,Maintain,Sedentary,0,1,0,0,0,0,0
+30,Female,163,56.8,21.4,Maintain,Active,0,0,0,0,0,0,0
+53,Male,165,60.2,22.1,Maintain,Light,0,0,0,0,0,0,0
+53,Female,187,73.9,21.1,Maintain,Sedentary,0,0,0,1,0,0,0
+55,Female,160,72.0,28.1,Maintain,Sedentary,0,0,0,0,0,0,0
+31,Female,157,52.4,21.3,Bulking,Light,0,0,0,0,0,0,0
+48,Female,155,70.9,29.5,Maintain,Moderate,0,0,0,0,0,0,0
+33,Female,180,86.3,26.6,Cutting,Moderate,0,0,0,0,0,0,0
+38,Male,176,58.5,18.9,Bulking,Light,0,0,0,0,0,0,0
+60,Male,157,67.8,27.5,Cutting,Sedentary,0,0,0,0,0,0,0
+51,Female,175,84.4,27.6,Cutting,Sedentary,0,1,0,0,0,0,0
+28,Female,153,61.5,26.3,Maintain,Active,0,0,0,0,0,0,0
+20,Male,152,50.0,21.6,Maintain,Very Active,0,0,0,0,0,0,0
+32,Female,176,91.5,29.5,Maintain,Active,0,0,0,0,0,0,0
+53,Female,182,109.4,33.0,Cutting,Moderate,1,1,0,0,0,0,0
+26,Female,165,78.7,28.9,Cutting,Active,0,0,1,0,0,0,0
+21,Male,153,71.3,30.5,Cutting,Very Active,1,0,0,0,0,0,0
+38,Male,165,56.1,20.6,Maintain,Light,0,0,0,0,0,0,0
+32,Male,166,90.9,33.0,Cutting,Active,0,0,0,0,0,0,0
+48,Male,165,67.9,24.9,Bulking,Sedentary,0,0,0,0,0,0,0
+18,Male,166,67.6,24.5,Maintain,Moderate,0,0,0,0,0,0,0
+53,Male,159,56.9,22.5,Bulking,Sedentary,0,0,0,0,0,0,0
+56,Female,182,63.7,19.2,Bulking,Sedentary,0,1,0,0,0,0,0
+46,Female,151,76.1,33.4,Cutting,Moderate,0,0,0,0,1,0,0
+20,Male,169,64.0,22.4,Maintain,Moderate,0,0,0,0,0,0,0
+60,Female,162,79.5,30.3,Cutting,Moderate,0,0,0,0,0,0,0
+60,Male,167,75.4,27.0,Cutting,Sedentary,0,0,0,0,0,0,0
+27,Male,169,89.8,31.4,Cutting,Active,1,0,0,0,0,0,0
+21,Female,160,88.5,34.6,Cutting,Moderate,0,0,0,1,0,0,0
+45,Female,167,64.8,23.2,Bulking,Sedentary,0,0,0,0,0,0,0
+40,Male,186,62.6,18.1,Bulking,Active,0,0,0,1,0,0,0
+38,Female,168,67.8,24.0,Bulking,Light,0,0,0,1,0,0,1
+47,Female,156,53.1,21.8,Maintain,Sedentary,0,0,0,0,0,0,0
+25,Female,157,76.9,31.2,Cutting,Active,0,0,0,0,0,0,0
+30,Male,159,80.8,32.0,Cutting,Active,1,0,0,0,0,0,0
+26,Female,174,60.3,19.9,Maintain,Active,0,0,0,0,0,0,0
+22,Male,155,69.4,28.9,Cutting,Moderate,0,0,1,0,0,0,0
+23,Male,181,71.2,21.7,Maintain,Moderate,0,0,0,0,0,0,0
+33,Female,171,66.1,22.6,Bulking,Light,0,0,0,0,0,0,0
+58,Female,173,93.4,31.2,Cutting,Moderate,0,0,1,0,0,0,0
+20,Female,174,102.7,33.9,Cutting,Very Active,1,0,0,0,0,1,0
+44,Male,178,76.0,24.0,Bulking,Moderate,0,0,0,0,0,0,0
+36,Female,189,96.2,26.9,Cutting,Active,0,0,0,0,0,0,0
+50,Female,151,59.8,26.2,Cutting,Moderate,0,1,0,0,0,0,0
+25,Male,166,51.4,18.7,Bulking,Active,0,0,0,0,0,0,0
+23,Male,182,88.3,26.7,Cutting,Very Active,0,0,0,1,0,0,0
+51,Female,171,77.0,26.3,Cutting,Sedentary,0,0,0,0,0,0,0
+22,Male,161,66.9,25.8,Maintain,Moderate,0,0,0,0,0,0,0
+56,Female,173,77.7,26.0,Cutting,Light,0,0,0,0,0,0,0
+59,Male,162,61.4,23.4,Maintain,Moderate,0,0,0,0,0,0,0
+51,Female,180,87.2,26.9,Maintain,Light,0,0,0,0,0,0,0
+34,Male,169,96.3,33.7,Cutting,Active,1,0,1,0,0,0,0
+27,Female,182,95.0,28.7,Maintain,Very Active,0,0,1,0,0,0,0
+18,Male,156,47.9,19.7,Maintain,Very Active,0,0,0,0,0,0,0
+34,Male,158,83.6,33.5,Cutting,Active,0,0,0,0,0,0,0
+44,Male,168,85.6,30.3,Cutting,Active,1,0,0,0,0,0,0
+41,Female,151,75.9,33.3,Cutting,Active,1,0,0,0,1,0,0
+29,Female,163,89.4,33.6,Cutting,Moderate,0,0,0,0,0,0,0
+20,Female,157,56.1,22.8,Bulking,Very Active,0,0,0,0,0,0,0
+21,Male,163,92.7,34.9,Cutting,Moderate,0,0,0,0,0,0,0
+42,Female,167,76.8,27.5,Maintain,Moderate,0,0,0,0,0,0,0
+59,Male,169,81.1,28.4,Maintain,Sedentary,0,1,0,0,0,0,0
+21,Male,151,72.9,32.0,Cutting,Active,1,0,0,0,0,0,0
+49,Male,164,91.8,34.1,Cutting,Light,0,0,0,0,0,0,0
+29,Male,185,79.7,23.3,Bulking,Moderate,0,0,0,0,0,0,0
+32,Female,179,62.5,19.5,Maintain,Active,0,0,0,0,0,0,0
+39,Male,152,58.5,25.3,Maintain,Moderate,0,0,0,0,0,0,0
+35,Male,167,72.1,25.9,Cutting,Active,0,0,0,0,0,0,0
+21,Male,184,63.3,18.7,Bulking,Moderate,0,0,0,0,0,0,0
+28,Male,183,63.2,18.9,Bulking,Moderate,0,0,0,0,0,0,0
+40,Female,188,75.4,21.3,Maintain,Moderate,0,0,0,0,0,0,0
+35,Female,169,89.7,31.4,Cutting,Moderate,1,0,0,0,0,0,0
+53,Female,163,67.4,25.4,Maintain,Light,0,0,0,0,0,0,0
+57,Male,164,90.8,33.8,Cutting,Light,0,0,0,0,0,0,0
+39,Female,154,49.0,20.7,Bulking,Light,0,0,0,1,0,0,0
+56,Female,156,77.8,32.0,Cutting,Moderate,0,0,0,0,0,0,0
+26,Male,162,87.8,33.5,Cutting,Moderate,0,0,0,0,0,0,0
+43,Male,186,85.5,24.7,Bulking,Active,0,0,0,0,0,0,0
+57,Male,163,67.0,25.2,Cutting,Moderate,0,1,0,0,0,0,0
+58,Female,174,75.2,24.8,Bulking,Moderate,0,0,0,0,0,0,0
+51,Male,164,61.4,22.8,Maintain,Sedentary,0,1,0,0,0,0,0
+55,Male,165,59.6,21.9,Maintain,Moderate,0,0,0,0,0,1,0
+53,Male,152,63.8,27.6,Cutting,Sedentary,0,1,0,0,0,0,0
+22,Female,170,73.0,25.3,Maintain,Active,0,0,0,0,0,0,0
+37,Male,179,58.0,18.1,Bulking,Active,0,0,0,0,0,0,0
+59,Female,166,88.1,32.0,Cutting,Sedentary,0,0,1,0,0,0,0
+43,Female,157,78.7,31.9,Cutting,Light,1,0,1,1,0,0,0
+46,Male,156,83.2,34.2,Cutting,Light,0,0,1,0,0,0,0
+24,Male,185,96.4,28.2,Maintain,Very Active,0,0,0,0,0,0,0
+32,Male,155,66.0,27.5,Cutting,Light,0,0,0,0,0,0,0
+28,Female,187,63.1,18.0,Bulking,Moderate,0,0,0,0,0,0,0
+42,Male,155,80.5,33.5,Cutting,Active,1,0,1,0,0,0,0
+57,Male,166,63.9,23.2,Maintain,Sedentary,0,1,0,0,0,0,0
+21,Female,190,91.5,25.3,Cutting,Moderate,0,0,0,0,0,0,0
+20,Male,156,60.9,25.0,Maintain,Active,0,0,0,0,0,0,0
+19,Female,186,62.4,18.0,Bulking,Moderate,0,0,0,0,0,0,0
+42,Female,181,78.2,23.9,Bulking,Moderate,0,0,0,0,0,0,0
+38,Female,187,92.4,26.4,Cutting,Active,0,0,0,0,0,0,0
+47,Female,190,116.4,32.2,Cutting,Moderate,1,0,0,0,0,0,0
+34,Male,182,82.0,24.8,Bulking,Active,0,0,0,0,0,0,0
+29,Female,176,70.3,22.7,Bulking,Active,0,0,0,0,0,0,0
+59,Female,180,83.3,25.7,Cutting,Light,0,0,0,0,0,0,0
+32,Male,180,96.2,29.7,Maintain,Active,0,0,0,0,0,0,0
+22,Female,152,45.9,19.9,Bulking,Very Active,0,0,0,0,0,0,0
+47,Male,177,68.0,21.7,Maintain,Moderate,0,1,0,0,0,0,0
+29,Male,153,48.0,20.5,Bulking,Very Active,0,0,0,0,1,0,0
+25,Female,170,67.5,23.4,Maintain,Active,0,0,0,0,0,0,0
+25,Male,177,104.0,33.2,Cutting,Moderate,0,0,1,0,0,0,0
+22,Male,186,116.2,33.6,Cutting,Moderate,1,0,0,0,0,0,0
+43,Male,165,70.2,25.8,Maintain,Moderate,0,0,0,0,0,0,0
+21,Male,151,65.2,28.6,Maintain,Moderate,0,0,1,0,0,0,0
+24,Male,167,78.4,28.1,Maintain,Moderate,0,0,0,0,0,0,0
+50,Female,166,86.9,31.5,Cutting,Sedentary,1,0,0,0,0,0,0
+54,Male,177,92.0,29.4,Cutting,Light,0,1,1,0,0,0,0
+49,Female,176,74.9,24.2,Bulking,Sedentary,0,0,0,0,0,0,0
+41,Female,170,94.0,32.5,Cutting,Active,0,0,0,0,0,0,0
+48,Male,156,68.5,28.1,Maintain,Light,0,0,0,0,0,0,0
+33,Female,157,69.7,28.3,Cutting,Moderate,0,0,1,0,0,0,0
+60,Female,153,45.5,19.4,Maintain,Light,0,0,0,0,0,0,0
+44,Female,182,91.5,27.6,Cutting,Light,0,0,0,0,0,0,0
+37,Female,181,91.5,27.9,Cutting,Light,0,0,0,0,0,0,0
+23,Female,162,82.1,31.3,Cutting,Active,1,0,0,0,0,0,0
+55,Male,184,109.7,32.4,Cutting,Moderate,1,1,1,0,1,0,0
+60,Female,170,66.1,22.9,Maintain,Light,0,1,0,0,0,0,0
+51,Female,170,65.9,22.8,Maintain,Moderate,0,0,0,1,0,0,0
+30,Female,170,53.7,18.6,Bulking,Active,0,0,0,0,0,0,0
+26,Female,157,72.4,29.4,Maintain,Active,0,0,0,0,0,0,0
+33,Male,189,87.4,24.5,Maintain,Light,0,0,0,0,0,0,0
+41,Male,152,42.9,18.6,Maintain,Moderate,0,1,0,0,0,0,0
+42,Male,185,95.1,27.8,Maintain,Active,0,0,0,0,0,0,0
+37,Female,171,68.9,23.6,Maintain,Active,0,0,0,0,0,0,0
+53,Female,181,79.5,24.3,Bulking,Moderate,0,0,0,0,0,0,0
+25,Male,172,85.0,28.7,Maintain,Moderate,0,0,0,0,0,0,0
+51,Female,178,94.2,29.7,Maintain,Sedentary,0,0,0,0,0,0,0
+46,Female,157,64.8,26.3,Cutting,Light,0,0,0,0,0,0,0
+31,Male,160,88.1,34.4,Cutting,Moderate,1,0,1,0,0,0,0
+47,Male,187,64.9,18.6,Bulking,Light,0,1,0,0,0,0,0
+24,Female,161,50.1,19.3,Maintain,Moderate,0,0,0,0,0,0,0
+46,Male,166,70.3,25.5,Cutting,Moderate,0,0,0,0,0,0,0
+44,Female,181,106.7,32.6,Cutting,Light,1,0,0,0,0,0,1
+57,Male,178,101.3,32.0,Cutting,Sedentary,1,1,1,0,0,0,0
+28,Male,154,46.6,19.6,Maintain,Moderate,0,0,0,0,0,0,0
+47,Male,173,89.2,29.8,Cutting,Sedentary,0,0,0,0,0,0,0
+53,Male,175,105.1,34.3,Cutting,Light,0,1,0,0,0,0,0
+36,Male,190,95.2,26.4,Cutting,Active,0,0,0,0,0,0,0
+35,Male,151,79.2,34.7,Cutting,Light,0,0,1,0,0,1,0
+36,Female,175,96.6,31.5,Cutting,Active,0,0,1,0,0,0,0
+48,Female,158,75.0,30.0,Cutting,Moderate,0,1,0,0,0,0,0
+56,Female,162,67.0,25.5,Maintain,Light,0,0,0,0,0,0,0
+53,Female,176,85.4,27.6,Cutting,Sedentary,0,1,0,0,0,0,0
+45,Male,160,73.5,28.7,Maintain,Light,0,1,0,0,0,0,0
+18,Female,190,98.5,27.3,Maintain,Very Active,0,0,0,0,0,0,0
+56,Male,159,64.1,25.4,Maintain,Light,0,0,0,0,0,0,0
+33,Female,166,85.8,31.1,Cutting,Active,0,0,1,0,0,0,0
+53,Female,182,101.2,30.6,Cutting,Light,1,1,0,0,0,0,0
+59,Female,157,79.4,32.2,Cutting,Moderate,0,0,0,0,0,0,1
+37,Female,150,74.7,33.2,Cutting,Light,1,0,0,0,0,0,0
+29,Female,162,85.7,32.7,Cutting,Moderate,0,0,1,0,0,0,0
+48,Male,159,71.0,28.1,Cutting,Sedentary,0,0,0,0,0,0,0
+35,Male,158,77.1,30.9,Cutting,Moderate,0,0,0,1,0,0,0
+42,Male,181,84.6,25.8,Cutting,Light,0,0,0,1,0,0,0
+59,Female,167,90.8,32.6,Cutting,Light,0,0,1,0,0,0,0
+47,Female,177,106.9,34.1,Cutting,Moderate,0,1,0,0,0,0,0
+49,Female,189,73.9,20.7,Bulking,Sedentary,0,1,0,0,0,0,0
+36,Female,156,61.8,25.4,Cutting,Active,0,0,0,0,0,0,0
+57,Female,170,82.7,28.6,Cutting,Light,0,1,0,0,0,0,0
+33,Female,182,86.5,26.1,Maintain,Light,0,0,0,0,0,0,0
+35,Female,167,61.8,22.2,Bulking,Light,0,0,0,0,0,0,0
+49,Male,166,90.0,32.7,Cutting,Light,1,1,0,0,0,0,0
+31,Female,165,78.0,28.7,Cutting,Light,0,0,0,0,0,0,0
+44,Female,176,69.9,22.6,Bulking,Light,0,0,0,0,0,0,0
+44,Male,174,62.5,20.6,Bulking,Moderate,0,1,0,0,0,0,0
+52,Male,180,63.0,19.4,Maintain,Light,0,1,0,0,0,0,0
+36,Female,157,49.5,20.1,Bulking,Active,0,0,0,0,0,0,0
+45,Female,177,61.9,19.8,Bulking,Moderate,0,0,0,0,0,0,0
+32,Male,158,81.0,32.4,Cutting,Moderate,1,0,1,1,0,0,0
+29,Female,150,64.1,28.5,Cutting,Moderate,0,0,0,0,0,0,0
+19,Female,163,70.1,26.4,Maintain,Active,0,0,0,0,0,0,0
+21,Female,169,96.5,33.8,Cutting,Very Active,1,0,0,0,0,0,0
+31,Male,157,73.0,29.6,Cutting,Moderate,0,0,0,0,0,0,0
+20,Male,176,75.2,24.3,Maintain,Very Active,0,0,0,0,0,0,0
+24,Female,166,90.5,32.8,Cutting,Very Active,1,0,0,0,0,0,0
+18,Male,180,108.8,33.6,Cutting,Very Active,0,0,1,0,0,0,0
+30,Female,171,89.1,30.5,Cutting,Active,1,0,1,0,0,0,0
+18,Female,156,83.9,34.5,Cutting,Active,0,0,0,0,0,0,0
+54,Male,185,98.0,28.6,Maintain,Moderate,0,0,1,0,0,0,0
+30,Male,168,93.8,33.2,Cutting,Light,1,0,0,0,0,0,1
+36,Male,158,74.4,29.8,Maintain,Active,0,0,0,0,0,0,0
+32,Female,169,80.1,28.0,Maintain,Moderate,0,0,0,0,0,0,0
+58,Male,168,61.3,21.7,Maintain,Moderate,0,1,0,0,0,0,0
+58,Male,160,51.2,20.0,Bulking,Sedentary,0,0,0,0,0,0,0
+43,Female,165,75.1,27.6,Maintain,Active,0,1,0,1,0,0,0
+20,Male,162,64.9,24.7,Bulking,Active,0,0,0,0,0,0,0
+31,Male,185,63.5,18.6,Bulking,Light,0,0,0,0,0,0,0
+53,Male,150,70.7,31.4,Cutting,Light,1,1,0,0,0,0,0
+49,Female,190,81.7,22.6,Maintain,Light,0,0,0,0,1,0,0
+19,Male,171,97.7,33.4,Cutting,Moderate,0,0,0,0,0,0,0
+46,Male,156,63.7,26.2,Maintain,Moderate,0,0,0,0,0,0,0
+31,Female,181,74.9,22.9,Maintain,Active,0,0,0,0,0,0,0
+18,Male,170,79.7,27.6,Maintain,Very Active,0,0,0,0,0,0,0
+40,Male,188,116.1,32.8,Cutting,Active,1,0,1,1,0,0,0
+34,Male,155,82.8,34.5,Cutting,Light,1,0,0,0,0,0,0
+46,Female,185,81.2,23.7,Bulking,Light,0,1,0,0,0,0,0
+21,Female,186,116.7,33.7,Cutting,Active,1,0,0,0,0,0,0
+33,Male,184,102.7,30.3,Cutting,Light,0,0,1,0,0,0,0
+26,Male,160,85.4,33.4,Cutting,Moderate,0,0,1,0,0,0,0
+29,Male,165,61.9,22.7,Maintain,Active,0,0,0,0,0,0,0
+28,Male,158,66.1,26.5,Cutting,Active,0,0,0,0,0,0,0
+18,Male,167,74.2,26.6,Maintain,Active,0,0,0,0,0,0,0
+26,Male,184,95.3,28.1,Maintain,Moderate,0,0,1,0,1,0,0
+48,Female,154,56.9,24.0,Maintain,Light,0,0,0,0,0,0,0
+40,Male,182,90.9,27.4,Maintain,Active,0,0,0,0,0,0,0
+53,Female,181,101.9,31.1,Cutting,Sedentary,1,1,0,0,0,0,0
+37,Male,167,72.0,25.8,Cutting,Active,0,0,0,0,0,0,0
+36,Female,165,67.8,24.9,Maintain,Light,0,0,0,0,0,0,0
+53,Female,163,61.1,23.0,Bulking,Sedentary,0,1,0,0,0,0,0
+49,Male,188,73.1,20.7,Bulking,Light,0,1,0,0,0,0,0
+40,Male,183,93.0,27.8,Cutting,Moderate,0,0,0,1,0,0,0
+49,Female,183,65.5,19.6,Bulking,Sedentary,0,0,0,0,1,0,0
+31,Female,161,61.5,23.7,Bulking,Light,0,0,0,0,0,0,0
+48,Female,151,63.2,27.7,Cutting,Light,0,1,0,0,0,0,0
+38,Female,155,80.5,33.5,Cutting,Moderate,0,0,1,0,0,0,0
+21,Male,190,98.3,27.2,Maintain,Active,0,0,0,1,0,0,0
+59,Female,170,66.3,22.9,Maintain,Sedentary,0,0,0,0,0,1,1
+29,Female,154,61.7,26.0,Maintain,Very Active,0,0,0,0,0,0,0
+22,Male,167,74.6,26.7,Cutting,Active,0,0,0,1,0,0,0
+59,Male,186,71.3,20.6,Maintain,Sedentary,0,0,0,0,0,0,0
+30,Female,170,97.8,33.8,Cutting,Moderate,0,0,1,0,0,1,0
+33,Male,160,69.4,27.1,Cutting,Active,0,0,0,0,0,0,0
+43,Female,185,90.8,26.5,Maintain,Active,0,1,0,0,0,0,0
+57,Male,169,93.8,32.8,Cutting,Moderate,1,0,0,0,0,0,0
+27,Female,183,105.1,31.4,Cutting,Active,1,0,0,0,0,0,0
+39,Male,160,62.9,24.6,Bulking,Moderate,0,0,0,0,0,0,0
+35,Male,162,76.5,29.1,Maintain,Light,0,0,1,0,0,0,0
+34,Male,167,71.7,25.7,Maintain,Light,0,0,0,0,0,0,1
+27,Male,183,94.6,28.2,Cutting,Very Active,0,0,0,0,0,0,0
+26,Male,179,74.7,23.3,Bulking,Moderate,0,0,0,0,0,0,0
+24,Male,160,86.7,33.9,Cutting,Active,0,0,0,0,0,0,0
+36,Female,180,95.5,29.5,Maintain,Active,0,0,0,0,0,0,0
+36,Male,186,79.0,22.8,Bulking,Active,0,0,0,0,0,0,0
+36,Male,175,101.3,33.1,Cutting,Light,0,0,0,0,0,0,0
+52,Female,190,123.3,34.2,Cutting,Sedentary,0,1,0,0,1,0,0
+32,Female,190,100.5,27.8,Cutting,Moderate,0,0,0,1,1,0,0
+41,Male,173,102.4,34.2,Cutting,Moderate,0,0,0,0,0,0,0
+18,Male,176,84.5,27.3,Cutting,Moderate,0,0,0,0,0,0,0
+43,Female,164,64.4,23.9,Maintain,Light,0,0,0,0,0,0,0
+53,Male,150,55.2,24.5,Maintain,Sedentary,0,1,0,0,0,0,0
+34,Female,178,94.1,29.7,Cutting,Active,0,0,0,0,0,0,0
+34,Female,170,99.8,34.5,Cutting,Moderate,0,0,1,0,0,0,0
+28,Female,190,109.9,30.4,Cutting,Very Active,1,0,0,0,0,0,0
+50,Female,175,63.5,20.7,Bulking,Moderate,0,0,0,0,0,0,0
+30,Male,154,53.4,22.5,Bulking,Active,0,0,0,0,0,0,0
+28,Male,157,70.0,28.4,Cutting,Moderate,0,0,0,0,0,0,0
+51,Female,158,59.7,23.9,Bulking,Light,0,0,0,0,0,0,0
+50,Female,173,81.5,27.2,Maintain,Light,0,1,0,0,0,0,0
+18,Male,153,70.2,30.0,Cutting,Moderate,0,0,0,0,0,0,0
+31,Male,153,75.2,32.1,Cutting,Moderate,0,0,0,0,0,0,0
+53,Female,153,51.1,21.8,Bulking,Sedentary,0,0,0,0,0,0,0
+31,Female,189,96.2,26.9,Maintain,Moderate,0,0,0,0,0,0,0
+46,Female,172,78.4,26.5,Maintain,Moderate,0,0,0,1,0,0,0
+60,Female,161,53.7,20.7,Maintain,Light,0,0,0,0,0,0,0
+54,Male,167,83.4,29.9,Cutting,Sedentary,0,0,0,0,0,0,0
+41,Male,177,91.9,29.3,Maintain,Moderate,0,0,1,0,0,0,0
+57,Female,158,82.5,33.0,Cutting,Moderate,1,0,1,0,0,0,0
+44,Male,157,54.9,22.3,Bulking,Light,0,0,0,0,0,0,0
+43,Male,169,91.3,32.0,Cutting,Light,0,0,0,0,0,0,0
+28,Female,176,93.9,30.3,Cutting,Moderate,1,0,1,0,0,0,0
+35,Male,163,86.9,32.7,Cutting,Active,1,0,0,0,0,0,0
+52,Female,158,82.5,33.0,Cutting,Sedentary,0,0,0,0,0,0,0
+26,Female,171,87.1,29.8,Maintain,Very Active,0,0,1,1,0,0,0
+29,Female,158,48.0,19.2,Maintain,Active,0,0,0,0,0,0,0
+30,Male,156,47.3,19.4,Maintain,Moderate,0,0,0,1,0,0,0
+31,Male,163,55.4,20.9,Bulking,Light,0,0,0,0,0,0,0
+56,Female,189,114.1,31.9,Cutting,Moderate,0,1,0,0,0,0,0
+45,Male,167,62.5,22.4,Bulking,Light,0,0,0,0,0,0,0
+48,Male,151,42.0,18.4,Bulking,Moderate,0,1,0,0,0,0,0
+52,Female,155,52.0,21.6,Maintain,Light,0,1,0,0,0,0,0
+28,Female,156,64.4,26.5,Maintain,Very Active,0,0,0,0,0,0,0
+26,Female,177,104.1,33.2,Cutting,Very Active,0,0,0,0,0,0,0
+30,Female,151,50.3,22.1,Maintain,Light,0,0,0,1,0,0,0
+45,Male,168,81.4,28.8,Cutting,Sedentary,0,1,0,0,0,0,1
+58,Male,172,56.7,19.2,Maintain,Light,0,1,0,0,0,0,0
+51,Female,179,88.8,27.7,Maintain,Sedentary,0,1,0,0,0,0,0
+52,Male,170,68.0,23.5,Bulking,Sedentary,0,1,0,0,0,0,0
+21,Male,175,104.1,34.0,Cutting,Active,0,0,1,0,0,0,0
+22,Female,166,91.3,33.1,Cutting,Moderate,0,0,0,0,0,0,0
+36,Male,190,98.9,27.4,Cutting,Moderate,0,0,0,0,0,1,0
+31,Male,157,52.7,21.4,Bulking,Moderate,0,0,0,0,0,0,0
+30,Female,185,67.5,19.7,Maintain,Active,0,0,0,0,0,0,0
+22,Female,152,78.3,33.9,Cutting,Active,1,0,0,0,0,0,0
+51,Male,173,65.8,22.0,Maintain,Light,0,0,0,0,0,0,0
+21,Male,152,49.7,21.5,Maintain,Moderate,0,0,0,0,0,0,0
+47,Female,177,78.0,24.9,Bulking,Light,0,0,0,0,0,1,0
+48,Female,173,66.1,22.1,Maintain,Sedentary,0,0,0,1,0,0,0
+48,Female,152,78.8,34.1,Cutting,Light,0,0,0,0,0,0,0
+48,Male,161,75.5,29.1,Cutting,Light,0,0,0,0,0,0,0
+21,Male,178,65.7,20.7,Maintain,Moderate,0,0,0,0,0,0,0
+57,Male,172,81.9,27.7,Maintain,Light,0,1,0,0,0,0,0
+20,Female,184,85.0,25.1,Maintain,Moderate,0,0,0,0,0,0,0
+46,Female,177,107.0,34.2,Cutting,Sedentary,1,0,0,1,0,0,0
+20,Female,152,42.1,18.2,Bulking,Very Active,0,0,0,0,0,0,0
+50,Female,157,57.0,23.1,Maintain,Sedentary,0,1,0,0,0,0,1
+33,Female,178,106.1,33.5,Cutting,Moderate,0,0,1,0,0,0,0
+33,Female,179,64.0,20.0,Bulking,Light,0,0,0,0,0,1,0
+49,Male,153,67.0,28.6,Cutting,Sedentary,0,0,0,0,0,0,0
+57,Male,156,71.1,29.2,Maintain,Moderate,0,1,0,0,0,0,0
+51,Female,160,48.9,19.1,Bulking,Light,0,0,0,0,0,0,0
+56,Male,186,71.6,20.7,Bulking,Light,0,0,0,0,0,0,0
+36,Male,151,78.5,34.4,Cutting,Light,1,0,1,0,0,0,0
+54,Male,180,100.8,31.1,Cutting,Light,0,1,0,0,0,0,0
+26,Female,166,95.2,34.5,Cutting,Moderate,1,0,0,0,0,0,0
+47,Male,174,85.6,28.3,Cutting,Moderate,0,0,0,1,0,0,0
+18,Male,154,70.1,29.6,Cutting,Moderate,0,0,0,0,0,0,0
+40,Female,167,77.1,27.6,Cutting,Light,0,0,0,0,0,0,0
+38,Female,171,60.8,20.8,Bulking,Active,0,0,0,0,0,0,0
+57,Female,151,60.4,26.5,Maintain,Sedentary,0,0,0,0,0,0,0
+36,Female,170,68.3,23.6,Maintain,Active,0,0,0,0,0,0,0
+55,Male,174,88.9,29.4,Cutting,Moderate,0,0,0,0,0,0,0
+28,Male,185,65.7,19.2,Bulking,Very Active,0,0,0,1,0,0,0
+35,Female,165,79.3,29.1,Cutting,Moderate,0,0,0,0,0,0,0
+23,Female,167,70.6,25.3,Maintain,Very Active,0,0,0,0,0,1,0
+21,Female,177,105.8,33.8,Cutting,Active,0,0,1,0,0,0,0
+45,Male,163,85.6,32.2,Cutting,Moderate,1,1,1,0,0,0,0
+43,Male,178,110.9,35.0,Cutting,Active,0,1,0,0,0,0,0
+51,Male,173,62.8,21.0,Maintain,Moderate,0,0,0,0,0,0,0
+49,Male,160,75.6,29.5,Maintain,Light,0,1,0,0,0,0,0
+45,Male,167,84.2,30.2,Cutting,Sedentary,0,0,1,0,0,0,0
+56,Male,170,96.5,33.4,Cutting,Moderate,1,0,0,0,0,0,0
+47,Female,183,72.6,21.7,Maintain,Sedentary,0,0,0,0,0,0,0
+54,Female,168,88.1,31.2,Cutting,Moderate,0,0,0,0,0,0,0
+18,Male,168,78.7,27.9,Cutting,Moderate,0,0,0,0,0,0,0
+44,Female,169,75.1,26.3,Maintain,Light,0,0,0,0,0,0,0
+31,Female,185,101.2,29.6,Cutting,Active,0,0,0,0,0,0,0
+57,Male,153,45.6,19.5,Maintain,Sedentary,0,1,0,0,1,0,0
+23,Male,172,58.3,19.7,Bulking,Active,0,0,0,0,0,0,0
+55,Male,184,67.6,20.0,Maintain,Moderate,0,0,0,0,0,0,0
+54,Male,160,80.7,31.5,Cutting,Sedentary,0,0,0,0,0,1,0
+18,Female,187,116.6,33.3,Cutting,Very Active,0,0,0,0,0,0,0
+57,Male,153,54.7,23.4,Bulking,Moderate,0,0,0,0,0,0,0
+51,Male,166,59.6,21.6,Bulking,Moderate,0,0,0,0,0,0,0
+46,Female,167,81.3,29.2,Cutting,Light,0,0,1,0,0,0,0
+25,Female,157,48.7,19.8,Maintain,Active,0,0,0,0,0,0,0
+18,Male,167,57.0,20.4,Bulking,Very Active,0,0,0,0,0,0,0
+29,Male,175,77.3,25.2,Cutting,Very Active,0,0,0,0,0,0,0
+32,Male,184,77.9,23.0,Maintain,Active,0,0,0,0,0,0,0
+24,Male,186,117.0,33.8,Cutting,Active,1,0,0,0,0,0,0
+48,Male,183,84.4,25.2,Cutting,Sedentary,0,0,0,0,0,0,0
+23,Male,178,85.0,26.8,Cutting,Moderate,0,0,0,0,0,0,0
+59,Female,163,82.4,31.0,Cutting,Light,1,0,1,1,0,0,0
+18,Male,175,107.0,34.9,Cutting,Moderate,0,0,1,0,0,0,0
+56,Male,181,90.7,27.7,Cutting,Moderate,0,0,0,0,0,0,0
+37,Female,163,85.0,32.0,Cutting,Light,1,0,0,1,0,0,0
+38,Female,181,93.9,28.7,Maintain,Light,0,0,0,0,0,0,0
+33,Female,170,79.7,27.6,Maintain,Light,0,0,0,0,0,0,0
+21,Male,178,100.3,31.7,Cutting,Very Active,1,0,1,0,0,0,0
+53,Male,159,53.4,21.1,Maintain,Sedentary,0,0,0,0,0,0,0
+54,Female,189,84.7,23.7,Bulking,Sedentary,0,0,0,0,0,0,0
+26,Male,181,114.6,35.0,Cutting,Very Active,1,0,0,0,0,0,0
+50,Male,167,93.0,33.3,Cutting,Moderate,1,0,0,0,0,0,0
+29,Male,163,54.9,20.7,Bulking,Moderate,0,0,0,0,0,0,0
+55,Male,170,72.7,25.2,Cutting,Light,0,1,0,0,0,0,0
+40,Female,171,59.5,20.3,Bulking,Active,0,0,0,0,0,0,0
+20,Female,163,91.5,34.4,Cutting,Very Active,1,0,1,0,0,0,0
+50,Female,181,90.2,27.5,Maintain,Sedentary,0,0,0,0,0,0,0
+19,Male,171,75.1,25.7,Maintain,Moderate,0,0,0,0,0,0,0
+31,Female,179,81.5,25.4,Cutting,Active,0,0,0,0,0,0,0
+22,Female,161,89.4,34.5,Cutting,Active,0,0,0,0,0,0,0
+58,Female,180,61.3,18.9,Maintain,Light,0,1,0,0,0,0,0
+42,Male,189,66.9,18.7,Maintain,Active,0,0,0,0,0,0,0
+50,Female,182,88.7,26.8,Cutting,Light,0,0,0,0,0,0,0
+59,Male,171,97.4,33.3,Cutting,Sedentary,0,0,1,0,0,1,0
+19,Female,169,67.1,23.5,Bulking,Very Active,0,0,0,0,0,0,0
+29,Male,190,103.1,28.6,Maintain,Moderate,0,0,0,0,0,0,0
+28,Female,189,90.6,25.4,Cutting,Moderate,0,0,0,0,0,0,0
+40,Female,173,80.4,26.9,Maintain,Light,0,0,0,1,0,0,0
+26,Male,180,78.7,24.3,Maintain,Active,0,0,0,1,0,0,0
+38,Female,166,61.2,22.2,Bulking,Light,0,0,0,0,0,0,0
+40,Female,189,68.5,19.2,Bulking,Light,0,0,0,0,1,0,0
+42,Male,184,113.2,33.4,Cutting,Active,1,0,1,0,0,0,1
+27,Male,176,68.8,22.2,Bulking,Very Active,0,0,0,0,0,0,0
+22,Female,154,65.0,27.4,Cutting,Active,0,0,0,0,0,0,0
+36,Female,157,60.4,24.5,Maintain,Moderate,0,0,0,1,0,0,0
+31,Female,172,89.5,30.3,Cutting,Light,0,0,0,0,0,0,0
+50,Female,162,65.5,25.0,Maintain,Moderate,0,0,0,0,0,0,0
+18,Male,161,76.4,29.5,Maintain,Very Active,0,0,0,0,0,0,0
+32,Male,159,56.2,22.2,Maintain,Active,0,0,0,0,0,0,0
+21,Female,181,111.8,34.1,Cutting,Very Active,0,0,0,0,0,0,0
+20,Male,160,72.3,28.2,Cutting,Active,0,0,1,0,0,0,0
+57,Male,186,67.5,19.5,Maintain,Sedentary,0,0,0,0,0,0,0
+55,Male,190,109.4,30.3,Cutting,Light,0,0,0,0,0,0,0
+44,Male,186,95.8,27.7,Maintain,Moderate,0,0,0,0,0,0,0
+40,Male,150,50.9,22.6,Maintain,Light,0,0,0,0,0,0,0
+38,Female,155,43.3,18.0,Bulking,Light,0,0,0,0,0,0,0
+21,Female,164,52.4,19.5,Bulking,Very Active,0,0,0,0,0,0,0
+35,Female,165,66.8,24.5,Bulking,Light,0,0,0,0,0,0,0
+19,Female,179,94.8,29.6,Maintain,Very Active,0,0,1,0,0,0,0
+38,Female,152,57.9,25.1,Maintain,Light,0,0,0,0,0,0,0
+25,Male,178,60.0,18.9,Bulking,Very Active,0,0,0,1,0,0,0
+26,Female,155,68.4,28.5,Cutting,Moderate,0,0,0,0,0,0,0
+48,Male,155,81.3,33.8,Cutting,Sedentary,1,0,0,0,0,0,0
+28,Female,183,109.5,32.7,Cutting,Moderate,0,0,1,0,0,0,0
+35,Male,173,86.7,29.0,Maintain,Moderate,0,0,0,0,0,0,0
+33,Female,164,49.8,18.5,Maintain,Active,0,0,0,0,0,0,0
+19,Male,172,57.7,19.5,Maintain,Moderate,0,0,0,0,0,0,0
+23,Male,168,71.8,25.4,Maintain,Very Active,0,0,0,0,0,0,0
+24,Female,172,100.3,33.9,Cutting,Very Active,1,0,1,0,0,0,0
+23,Male,150,68.1,30.3,Cutting,Moderate,0,0,0,0,0,0,0
+50,Female,163,82.0,30.9,Cutting,Light,0,0,0,1,0,0,0
+37,Female,182,97.8,29.5,Cutting,Active,0,0,0,0,0,0,0
+59,Female,174,72.9,24.1,Maintain,Sedentary,0,1,0,0,0,0,0
+21,Female,159,87.6,34.7,Cutting,Active,0,0,0,0,0,0,0
+58,Female,187,73.2,20.9,Bulking,Light,0,0,0,1,0,0,0
+53,Female,178,74.6,23.5,Maintain,Sedentary,0,1,0,0,0,0,0
+38,Female,150,55.1,24.5,Bulking,Light,0,0,0,1,0,0,0
+21,Male,163,65.3,24.6,Maintain,Active,0,0,0,0,0,0,0
+47,Male,164,82.8,30.8,Cutting,Sedentary,0,0,0,0,0,0,0
+19,Female,151,52.7,23.1,Bulking,Moderate,0,0,0,0,0,0,0
+25,Female,179,91.8,28.7,Cutting,Active,0,0,1,0,0,0,1
+46,Female,153,55.4,23.7,Maintain,Sedentary,0,0,0,0,0,0,0
+31,Male,162,82.9,31.6,Cutting,Moderate,1,0,0,0,0,0,0
+23,Female,171,69.0,23.6,Bulking,Moderate,0,0,0,0,0,0,0
+50,Male,175,86.3,28.2,Maintain,Light,0,1,0,0,0,0,0
+48,Male,173,64.1,21.4,Maintain,Moderate,0,0,0,0,0,0,1
+55,Male,183,67.0,20.0,Bulking,Moderate,0,1,0,1,0,0,0
+31,Male,177,85.7,27.4,Maintain,Active,0,0,0,0,0,0,0
+19,Female,183,74.2,22.2,Bulking,Active,0,0,0,0,0,0,0
+49,Male,180,84.8,26.2,Maintain,Light,0,1,0,0,0,0,0
+45,Female,157,46.1,18.7,Bulking,Light,0,0,0,0,0,1,0
+21,Female,181,101.3,30.9,Cutting,Moderate,1,0,1,1,0,0,0
+40,Male,179,86.6,27.0,Maintain,Active,0,0,0,0,0,0,0
+33,Male,164,67.5,25.1,Maintain,Moderate,0,0,0,0,0,0,0
+58,Female,174,105.8,34.9,Cutting,Light,1,0,0,0,0,0,0
+45,Female,176,95.3,30.8,Cutting,Moderate,0,0,1,1,0,0,0
+21,Male,177,98.9,31.6,Cutting,Moderate,1,0,0,0,0,0,0
+23,Male,185,109.1,31.9,Cutting,Active,0,0,1,0,0,0,0
+56,Female,187,85.5,24.5,Maintain,Sedentary,0,0,0,0,0,0,0
+27,Female,183,88.2,26.3,Cutting,Moderate,0,0,0,0,0,0,0
+21,Male,175,86.3,28.2,Cutting,Active,0,0,0,0,0,0,0
+27,Male,183,85.2,25.4,Cutting,Moderate,0,0,0,0,0,0,0
+22,Female,180,95.3,29.4,Maintain,Moderate,0,0,0,0,0,0,0
+24,Female,184,72.5,21.4,Maintain,Very Active,0,0,0,0,0,0,0
+20,Male,156,54.5,22.4,Bulking,Very Active,0,0,0,0,0,0,0
+55,Male,152,62.9,27.2,Maintain,Sedentary,0,0,0,0,0,0,0
+58,Male,158,78.0,31.2,Cutting,Light,0,0,0,0,0,0,0
+21,Female,173,85.3,28.5,Cutting,Very Active,0,0,0,0,0,0,0
+56,Female,168,63.5,22.5,Bulking,Light,0,1,0,0,0,0,0
+28,Female,187,121.1,34.6,Cutting,Active,1,0,0,0,0,0,0
+40,Female,174,91.4,30.2,Cutting,Light,0,0,0,0,0,0,0
+60,Female,167,88.0,31.6,Cutting,Moderate,0,0,0,1,0,0,0
+50,Female,161,89.2,34.4,Cutting,Sedentary,0,0,0,0,0,0,0
+27,Male,171,86.4,29.5,Cutting,Very Active,0,0,1,0,0,0,0
+52,Female,161,66.9,25.8,Cutting,Sedentary,0,1,0,0,1,0,0
+56,Female,158,72.0,28.8,Cutting,Moderate,0,1,0,0,0,0,0
+42,Male,172,92.3,31.2,Cutting,Light,1,1,0,0,0,0,0
+34,Female,151,42.2,18.5,Bulking,Light,0,0,0,0,0,0,0
+56,Male,157,67.7,27.5,Maintain,Moderate,0,0,0,0,0,0,0
+19,Female,161,76.7,29.6,Maintain,Active,0,0,1,0,0,0,0
+35,Female,160,64.1,25.0,Maintain,Moderate,0,0,0,0,0,0,0
+30,Female,175,100.7,32.9,Cutting,Active,1,0,0,0,0,0,0
+20,Male,181,67.4,20.6,Bulking,Moderate,0,0,0,0,0,0,0
+26,Male,187,89.7,25.7,Maintain,Very Active,0,0,0,0,0,0,0
+22,Male,160,73.9,28.9,Cutting,Moderate,0,0,1,0,0,0,0
+34,Male,181,63.9,19.5,Bulking,Light,0,0,0,0,0,0,0
+36,Female,173,95.8,32.0,Cutting,Moderate,0,0,0,1,0,0,0
+53,Female,158,57.6,23.1,Maintain,Light,0,0,0,0,0,0,0
+60,Female,166,67.8,24.6,Bulking,Moderate,0,0,0,0,0,0,0
+18,Female,159,66.6,26.3,Cutting,Very Active,0,0,0,0,0,0,0
+33,Male,186,81.2,23.5,Maintain,Light,0,0,0,0,0,0,0
+51,Male,183,80.2,23.9,Bulking,Sedentary,0,1,0,0,0,0,0
+42,Female,183,99.3,29.7,Maintain,Light,0,0,0,0,0,0,0
+24,Female,177,70.5,22.5,Maintain,Very Active,0,0,0,0,0,0,0
+57,Male,179,93.0,29.0,Maintain,Moderate,0,0,0,0,0,0,0
+27,Male,182,111.2,33.6,Cutting,Active,0,0,1,0,0,0,0
+44,Male,177,65.7,21.0,Maintain,Light,0,1,0,0,0,0,0
+53,Male,176,79.5,25.7,Cutting,Light,0,0,0,0,0,0,0
+52,Male,179,101.3,31.6,Cutting,Moderate,0,0,0,0,0,0,0
+19,Female,159,69.4,27.5,Cutting,Moderate,0,0,0,0,1,0,0
+33,Female,161,88.1,34.0,Cutting,Active,1,0,0,0,0,0,0
+46,Female,176,107.3,34.6,Cutting,Light,0,0,0,0,0,0,0
+40,Male,158,57.5,23.0,Maintain,Active,0,0,0,1,0,0,0
+27,Female,176,93.9,30.3,Cutting,Very Active,1,0,0,0,0,0,0
+33,Male,159,85.6,33.9,Cutting,Light,0,0,0,0,0,0,0
+21,Male,170,80.8,28.0,Cutting,Very Active,0,0,0,0,0,0,0
+27,Male,175,77.8,25.4,Maintain,Moderate,0,0,0,0,0,0,0
+54,Female,153,53.7,22.9,Bulking,Light,0,0,0,0,0,0,0
+36,Female,166,75.3,27.3,Cutting,Active,0,0,0,1,0,0,0
+37,Female,183,65.4,19.5,Bulking,Active,0,0,0,0,0,0,0
+33,Female,154,64.5,27.2,Cutting,Light,0,0,0,0,0,0,0
+56,Male,162,90.0,34.3,Cutting,Moderate,0,1,1,0,0,0,0
+46,Male,159,84.0,33.2,Cutting,Sedentary,0,0,0,0,0,0,0
+29,Male,150,78.6,34.9,Cutting,Active,0,0,1,0,0,0,0
+30,Male,168,74.9,26.5,Maintain,Moderate,0,0,0,0,0,0,0
+26,Male,170,75.4,26.1,Maintain,Very Active,0,0,0,1,0,0,0
+37,Male,174,61.7,20.4,Maintain,Moderate,0,0,0,0,0,0,0
+30,Male,179,99.5,31.1,Cutting,Light,0,0,1,0,0,0,0
+56,Male,161,80.1,30.9,Cutting,Sedentary,0,0,1,0,0,0,0
+24,Male,161,78.9,30.4,Cutting,Active,0,0,1,0,1,0,0
+31,Female,151,46.4,20.3,Maintain,Moderate,0,0,0,0,0,0,0
+24,Male,176,73.3,23.7,Maintain,Moderate,0,0,0,1,0,0,0
+50,Female,155,63.1,26.3,Cutting,Sedentary,0,1,0,0,0,0,0
+42,Female,166,88.9,32.3,Cutting,Light,0,0,1,0,0,0,0
+56,Male,152,79.1,34.2,Cutting,Light,0,0,1,0,0,0,0
+32,Male,181,97.1,29.6,Cutting,Moderate,0,0,0,0,0,0,0
+46,Female,190,106.3,29.4,Cutting,Moderate,0,1,0,0,0,0,0
+30,Female,189,113.6,31.8,Cutting,Light,0,0,0,0,0,0,0
+58,Female,154,79.7,33.6,Cutting,Moderate,0,1,0,0,0,0,0
+52,Female,169,53.8,18.8,Maintain,Moderate,0,0,0,0,0,0,0
+19,Male,158,63.5,25.4,Maintain,Moderate,0,0,0,0,0,0,0
+45,Female,150,60.0,26.7,Maintain,Moderate,0,0,0,0,0,0,0
+44,Female,162,62.7,23.9,Maintain,Active,0,1,0,1,0,0,0
+32,Female,176,59.9,19.3,Maintain,Active,0,0,0,0,0,0,0
+20,Male,151,78.5,34.4,Cutting,Very Active,0,0,1,0,0,0,0
+48,Male,181,88.2,26.9,Cutting,Light,0,1,0,0,0,0,0
+50,Male,168,80.9,28.7,Cutting,Sedentary,0,1,0,0,0,0,0
+20,Male,156,54.4,22.4,Bulking,Moderate,0,0,0,0,0,0,0
+26,Male,173,84.1,28.1,Cutting,Moderate,0,0,0,0,0,0,0
+47,Male,182,63.7,19.2,Bulking,Sedentary,0,0,0,0,0,0,0
+38,Male,188,123.2,34.9,Cutting,Moderate,1,0,1,0,0,0,0
+24,Male,162,79.1,30.1,Cutting,Very Active,1,0,0,0,0,0,0
+21,Male,177,73.6,23.5,Maintain,Very Active,0,0,0,0,0,0,0
+31,Female,152,56.1,24.3,Bulking,Active,0,0,0,0,0,0,0
+50,Male,189,124.6,34.9,Cutting,Moderate,1,1,0,0,0,0,0
+23,Male,156,50.8,20.9,Maintain,Very Active,0,0,0,0,0,0,0
+56,Female,155,44.9,18.7,Bulking,Light,0,0,0,0,0,0,0
+54,Male,174,65.9,21.8,Bulking,Moderate,0,0,0,0,0,0,0
+37,Male,156,52.8,21.7,Maintain,Active,0,0,0,0,0,0,0
+46,Male,190,122.7,34.0,Cutting,Sedentary,0,0,0,0,0,0,0
+31,Male,154,79.4,33.5,Cutting,Moderate,0,0,0,0,0,0,0
+34,Female,187,66.0,18.9,Bulking,Moderate,0,0,0,0,0,0,0
+54,Male,174,87.6,28.9,Cutting,Light,0,0,0,1,0,0,0
+21,Female,181,69.4,21.2,Bulking,Moderate,0,0,0,0,0,0,0
+57,Female,158,74.4,29.8,Maintain,Light,0,0,0,0,0,0,0
+21,Female,170,71.9,24.9,Maintain,Moderate,0,0,0,0,0,0,0
+53,Male,187,79.3,22.7,Maintain,Sedentary,0,0,0,0,0,0,0
+55,Female,163,53.7,20.2,Maintain,Sedentary,0,1,0,0,0,0,0
+59,Male,189,95.6,26.8,Maintain,Sedentary,0,1,0,0,0,0,0
+36,Male,170,80.3,27.8,Maintain,Moderate,0,0,0,0,0,0,0
+34,Female,151,58.5,25.7,Cutting,Light,0,0,0,0,0,0,0
+19,Male,151,51.5,22.6,Maintain,Moderate,0,0,0,0,0,0,0
+49,Male,159,64.3,25.4,Cutting,Moderate,0,0,0,0,0,0,0
+60,Male,185,78.4,22.9,Bulking,Light,0,0,0,0,0,0,0
+35,Male,153,63.6,27.2,Maintain,Moderate,0,0,0,0,0,0,0
+25,Female,158,51.3,20.5,Maintain,Very Active,0,0,0,0,0,0,0
+45,Female,187,113.0,32.3,Cutting,Moderate,0,0,0,1,0,0,0
+21,Female,187,90.9,26.0,Maintain,Very Active,0,0,0,0,0,0,0
+54,Female,188,69.5,19.7,Maintain,Sedentary,0,1,0,0,0,0,0
+36,Male,178,59.9,18.9,Bulking,Light,0,0,0,0,0,0,0
+47,Male,182,84.3,25.4,Cutting,Sedentary,0,0,0,0,0,0,0
+38,Male,176,69.6,22.5,Maintain,Active,0,0,0,0,0,0,0
+50,Female,178,70.6,22.3,Maintain,Moderate,0,0,0,0,0,0,0
+50,Female,156,43.9,18.0,Bulking,Moderate,0,0,0,0,0,1,0
+41,Female,161,57.3,22.1,Maintain,Light,0,1,0,0,0,0,0
+37,Male,171,60.4,20.7,Bulking,Moderate,0,0,0,0,0,0,0
+39,Male,175,103.5,33.8,Cutting,Active,0,0,1,0,0,0,0
+49,Female,152,70.8,30.6,Cutting,Sedentary,0,0,0,0,0,0,0
+47,Female,151,69.6,30.5,Cutting,Sedentary,1,1,0,0,0,0,0
+40,Male,181,87.5,26.7,Cutting,Moderate,0,0,0,0,0,0,0
+26,Female,177,96.5,30.8,Cutting,Active,0,0,0,0,0,0,0
+45,Male,186,94.4,27.3,Maintain,Light,0,0,0,0,0,0,0
+53,Male,151,68.9,30.2,Cutting,Light,0,1,1,0,0,0,0
+38,Female,189,111.6,31.2,Cutting,Light,1,0,0,0,0,0,0
+46,Male,183,80.0,23.9,Maintain,Moderate,0,0,0,1,0,0,0
+21,Male,156,60.2,24.7,Maintain,Very Active,0,0,0,0,0,0,0
+18,Female,159,68.3,27.0,Maintain,Active,0,0,0,0,0,0,0
+27,Male,167,75.3,27.0,Maintain,Very Active,0,0,0,0,0,0,0
+52,Female,181,108.9,33.2,Cutting,Light,0,1,0,1,0,0,0
+31,Female,183,110.6,33.0,Cutting,Active,0,0,1,0,0,0,0
+51,Female,155,57.0,23.7,Bulking,Moderate,0,1,0,0,0,1,0
+28,Male,151,57.8,25.3,Cutting,Moderate,0,0,0,0,1,0,1
+48,Male,190,66.4,18.4,Bulking,Light,0,1,0,1,0,0,0
+37,Female,150,59.5,26.4,Maintain,Active,0,0,0,0,0,0,0
+31,Male,175,89.9,29.4,Maintain,Light,0,0,0,0,0,0,0
+26,Male,173,98.3,32.8,Cutting,Moderate,1,0,0,0,0,0,0
+59,Female,175,82.6,27.0,Cutting,Light,0,0,0,0,0,0,0
+49,Female,157,44.4,18.0,Bulking,Sedentary,0,0,0,0,0,0,0
+30,Male,166,70.1,25.4,Maintain,Light,0,0,0,0,0,0,0
+40,Male,158,55.2,22.1,Maintain,Light,0,0,0,0,0,0,0
+40,Female,164,57.1,21.2,Maintain,Moderate,0,0,0,0,0,0,0
+37,Male,161,56.7,21.9,Bulking,Moderate,0,0,0,0,0,0,0
+30,Male,178,58.4,18.4,Bulking,Active,0,0,0,0,0,0,0
+51,Female,151,53.0,23.2,Maintain,Sedentary,0,0,0,0,0,0,0
+37,Male,190,102.5,28.4,Cutting,Light,0,0,0,0,0,0,0
+31,Male,170,91.2,31.6,Cutting,Light,0,0,1,0,0,0,0
+45,Female,163,87.1,32.8,Cutting,Sedentary,1,0,0,0,0,0,0
+28,Female,170,89.1,30.8,Cutting,Moderate,1,0,1,0,0,0,0
+48,Female,164,91.1,33.9,Cutting,Sedentary,1,0,0,0,0,0,0
+47,Male,162,66.1,25.2,Maintain,Light,0,1,0,0,0,1,0
+51,Male,172,58.0,19.6,Bulking,Moderate,0,1,0,0,0,0,0
+27,Male,179,68.3,21.3,Bulking,Active,0,0,0,0,0,0,0
+35,Male,182,83.0,25.1,Cutting,Moderate,0,0,0,0,0,0,0
+33,Male,161,78.6,30.3,Cutting,Active,1,0,1,0,0,0,0
+26,Male,172,85.0,28.7,Maintain,Very Active,0,0,0,0,0,0,0
+54,Female,153,54.9,23.5,Maintain,Moderate,0,0,0,0,0,0,0
+54,Female,185,69.8,20.4,Bulking,Moderate,0,1,0,0,0,0,0
+24,Male,157,68.6,27.8,Maintain,Active,0,0,0,0,0,0,0
+28,Female,168,90.9,32.2,Cutting,Active,0,0,0,0,0,0,0
+24,Male,165,74.0,27.2,Maintain,Moderate,0,0,0,1,0,0,0
+32,Male,162,54.0,20.6,Maintain,Moderate,0,0,0,1,0,0,0
+19,Female,161,68.7,26.5,Maintain,Very Active,0,0,0,0,0,0,0
+55,Male,178,106.4,33.6,Cutting,Moderate,0,1,0,0,0,0,0
+42,Female,169,52.5,18.4,Bulking,Light,0,0,0,0,0,0,0
+25,Female,155,56.0,23.3,Bulking,Very Active,0,0,0,1,0,0,0
+47,Male,183,97.2,29.0,Maintain,Moderate,0,0,1,0,0,0,0
+19,Female,154,75.7,31.9,Cutting,Moderate,0,0,0,0,0,0,1
+33,Female,182,115.7,34.9,Cutting,Light,0,0,0,0,0,0,0
+35,Female,156,58.1,23.9,Bulking,Active,0,0,0,0,0,0,0
+51,Female,166,75.5,27.4,Cutting,Moderate,0,0,0,0,0,0,0
+53,Female,184,80.1,23.7,Maintain,Moderate,0,0,0,0,0,0,0
+26,Male,188,72.4,20.5,Maintain,Very Active,0,0,0,0,0,0,0

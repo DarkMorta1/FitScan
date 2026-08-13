@@ -1,0 +1,101 @@
+{
+  "model_type": "MultiOutputClassifier(LogisticRegression)",
+  "feature_columns": [
+    "age",
+    "gender",
+    "height",
+    "weight",
+    "bmi",
+    "goal",
+    "activity_level",
+    "fitness_level",
+    "workout_days",
+    "workout_duration_minutes",
+    "equipment",
+    "preferred_workout_type"
+  ],
+  "target_columns": [
+    "target_muscle",
+    "exercise_category",
+    "exercise_difficulty"
+  ],
+  "classes": {
+    "target_muscle": [
+      "Back",
+      "Biceps",
+      "Calves",
+      "Cardio",
+      "Chest",
+      "Core",
+      "Full Body",
+      "Glutes",
+      "Hamstrings",
+      "Legs",
+      "Posterior Chain",
+      "Quads",
+      "Shoulders",
+      "Triceps"
+    ],
+    "exercise_category": [
+      "Accessory",
+      "Bodyweight",
+      "Cardio",
+      "Core",
+      "Full Body",
+      "Isolation",
+      "Machine",
+      "Strength"
+    ],
+    "exercise_difficulty": [
+      "Beginner",
+      "Intermediate"
+    ]
+  },
+  "training_date": "2026-08-06T15:39:33.235043+00:00",
+  "dataset_size": 31800,
+  "train_size": 25440,
+  "test_size": 6360,
+  "missing_values": {
+    "age": 0,
+    "gender": 0,
+    "height": 0,
+    "weight": 0,
+    "bmi": 0,
+    "goal": 0,
+    "activity_level": 0,
+    "fitness_level": 0,
+    "workout_days": 0,
+    "workout_duration_minutes": 0,
+    "equipment": 4056,
+    "preferred_workout_type": 0,
+    "target_muscle": 0,
+    "exercise_name": 0,
+    "exercise_category": 0,
+    "exercise_difficulty": 0,
+    "sets": 0,
+    "reps": 0,
+    "rest_seconds": 0,
+    "duration_minutes": 0
+  },
+  "evaluation_metrics": {
+    "target_muscle": {
+      "accuracy": 0.4102201257861635,
+      "precision": 0.3552760883752233,
+      "recall": 0.4102201257861635,
+      "f1": 0.3582369808318302
+    },
+    "exercise_category": {
+      "accuracy": 0.6460691823899372,
+      "precision": 0.6485767023066988,
+      "recall": 0.6460691823899372,
+      "f1": 0.6350860032597516
+    },
+    "exercise_difficulty": {
+      "accuracy": 0.8064465408805032,
+      "precision": 0.8157136136510376,
+      "recall": 0.8064465408805032,
+      "f1": 0.8072757110483502
+    }
+  },
+  "model_path": "C:\\Users\\ojash osti\\Desktop\\fitscan\\ai-service\\model\\exercise_recommendation_model.pkl"
+}
